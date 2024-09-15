@@ -120,5 +120,8 @@ public class Loop {
         System.out.println("ODD count numbers are "+odd_count);
         System.out.println("Count sum of number are "+sum);
 
+
+
+
     }
 }
