@@ -3,7 +3,7 @@ package Day6;
 public class Array {
 
 
-    public static void main(String[] arrays){
+    public static void main(String[] args){
         int a []=new int[5];
 
         a[0]=100;
