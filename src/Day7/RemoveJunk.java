@@ -7,7 +7,14 @@ public class RemoveJunk {
         String s="%danmks$324";
 
         s=s.replaceAll("[^a-zA-Z0-9]", "");
-
         System.out.println(s);
+
+        String rmsp="Java is the best";
+        rmsp=rmsp.replaceAll("\\s", "");
+        System.out.println(rmsp);
+
+
+
+
     }
 }
